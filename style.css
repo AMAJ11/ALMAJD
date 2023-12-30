@@ -150,7 +150,7 @@ header .links ul li:not(:last-child) a
 } 
 .main
 {
-    background-image: url("pexels-george-becker-112854.jpg");
+    background-image: url("main.jpg");
     background-size: cover;
     height:calc(100vh );
      width: 100%;
@@ -252,6 +252,7 @@ header .links ul li:not(:last-child) a
     align-items: center;
     flex-direction: column;
 }
+.price .cont .pr{margin: auto;}
 .price .pr input
 {
     font-size: 60px;
