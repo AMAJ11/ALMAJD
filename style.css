@@ -252,7 +252,7 @@ header .links ul li:not(:last-child) a
     align-items: center;
     flex-direction: column;
 }
-.price .cont .pr{margin: auto;}
+.price .cont .pr{margin:10px auto}
 .price .pr input
 {
     font-size: 60px;
